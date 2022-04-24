@@ -1,6 +1,6 @@
 ### Hi there 👋 ,This is Bill Chen
 
-- 🔭 I’m currently working on Android Developing.
+- 🔭 I’m currently working on Android MultiMedia.
 - 🌱 I’m currently learning Camera, MultiMedia and Audio HAL.
 
 <!--
