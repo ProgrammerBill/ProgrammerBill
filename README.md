@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 ,This is Bill Chen
+
+- 🔭 I’m currently working on Android Developing.
+- 🌱 I’m currently learning Camera, MultiMedia and Audio HAL.
 
 <!--
 **ProgrammerBill/ProgrammerBill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
