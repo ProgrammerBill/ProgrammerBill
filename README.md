@@ -1,7 +1,7 @@
 ### Hi there 👋 ,This is Bill Chen
 
-- 🔭 I’m currently working on Android MultiMedia.
-- 🌱 I’m currently learning Camera, MultiMedia and Audio HAL.
+- 🔭 I’m currently working on Android MultiMedia/Camera/Audio
+- 🌱 I’m currently intrested in CryptoCurrency.
 
 <!--
 **ProgrammerBill/ProgrammerBill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
